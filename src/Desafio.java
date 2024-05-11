@@ -30,6 +30,7 @@ public class Desafio {
             opcion = teclado.nextInt();
 
             // Este es un comentario nuevo
+            // Este es otro comentario second
 
             switch (opcion) {
                 case 1:
